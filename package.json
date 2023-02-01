@@ -1,0 +1,21 @@
+{
+  "name": "quiz-management",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "bin": "./index.js",
+  "dependencies": {
+    "@types/inquirer": "^9.0.3",
+    "inquirer": "^9.1.4",
+    "quiz-management": "^1.0.0"
+  },
+  "devDependencies": {
+    "@types/chalk-animation": "^1.6.1"
+  }
+}
